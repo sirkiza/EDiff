@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "EDiff": {
+      "commandName": "Project",
+      "commandLineArgs": "diff C:\\Users\\esirkiza\\source\\repos\\Diff\\EDiff\\text1.txt C:\\Users\\esirkiza\\source\\repos\\Diff\\EDiff\\text2.txt"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    },
+    "Profile 2": {
+      "commandName": "Project",
+      "commandLineArgs": "patch C:\\Users\\esirkiza\\source\\repos\\Diff\\EDiff\\text1.txt C:\\Users\\esirkiza\\source\\repos\\Diff\\EDiff\\diff.txt"
+    }
+  }
+}
